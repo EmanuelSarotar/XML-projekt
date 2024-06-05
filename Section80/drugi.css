@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+* {
+    box-sizing: border-box
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background-image: url(images/bg.jpg);
+    height: 100%;
+}
+
+header {
+    background-color: black;
+    color: orange;
+    padding:15px 10px;
+    position: fixed;
+    top: 0;
+    width:100vw;
+    display: flex;
+    align-items: center;
+    z-index: 99;
+}
+
+header a {
+    margin-left: 10px;
+}
+
+.links {
+    position: relative;
+    top: 200px
+}
+
+a:link {
+    color: rgb(130, 130, 130);
+}
+
+a:active {
+    color: rgb(130, 130, 130);
+}
+
+a:visited {
+    color: rgb(130, 130, 130);
+}
+
+a:hover {
+    color: rgb(161, 161, 161);
+}
+
+footer {
+    background-color: black;
+    color: rgb(130, 130, 130);    
+    padding:15px 10px;
+    position: fixed;
+    bottom: 0;
+    width:100vw;
+    display: flex;
+    align-items: center;
+    z-index: 99;
+}
+
+footer p {
+    margin-left: 10px;
+}
+
+.bar {
+    background-color: rgb(226, 226, 226);
+    color: rgb(130, 130, 130);
+    top: 65px;
+    right: 100px;
+    width: 200px;
+    height: 90px;
+    position: fixed;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.bar img {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.bartext {
+    margin-left: 110px;
+    position: relative;
+    bottom: 20px;
+}
+
+.sidebar {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-top: 70px;
+}
+
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 10px;
+    color: #818181;
+    display: block;  
+}
+
+.sidebar li {
+    margin-left: -25px;
+}
+
+.firstpar {
+    margin-left:170px;
+    width: 300px;
+}
+
+.firstpar-text {
+    padding-top: 65px;
+}
+
+.secondpar {
+    margin-left:170px;
+    padding-bottom: 80px;
+    width: 300px;
+}
+
+.images {
+    margin-left: 600px;
+    margin-top: -580px;
+}
+
+.image1 img {
+    max-height: 200px;
+    max-width: 500px;
+    border: 5px solid rgb(54, 54, 54);
+}
+
+.image2 {
+    padding-top: 50px;
+}
+
+.image2 img {
+    max-height: 200px;
+    max-width: 500px;
+    border: 5px solid rgb(54, 54, 54);
+}
+
+.vid {
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.vid iframe {
+    border: 5px solid rgb(54, 54, 54);
+}

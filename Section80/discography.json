@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Section.80",
+        "release_date": "July 2, 2011",
+        "label": "Top Dawg Entertainment",
+        "chart_position": 113,
+        "certification": "Gold"
+    },
+    {
+        "title": "good kid, m.A.A.d city",
+        "release_date": "October 22, 2012",
+        "label": "Top Dawg Entertainment, Aftermath Entertainment, Interscope Records",
+        "chart_position": 2,
+        "certification": "Triple Platinum"
+    },
+    {
+        "title": "To Pimp A Butterfly",
+        "release_date": "March 15, 2015",
+        "label": "Top Dawg Entertainment, Aftermath Entertainment, Interscope Records",
+        "chart_position": 1,
+        "certification": "Platinum"
+    },
+    {
+        "title": "untitled unmastered.",
+        "release_date": "March 4, 2016",
+        "label": "Top Dawg Entertainment, Aftermath Entertainment, Interscope Records",
+        "chart_position": 1,
+        "certification": "NA"
+    },
+    {
+        "title": "DAMN.",
+        "release_date": "April 14, 2017",
+        "label": "Top Dawg Entertainment, Aftermath Entertainment, Interscope Records",
+        "chart_position": 1,
+        "certification": "Triple Platinum"
+    },
+    {
+        "title": "Mr. Morale & The Big Steppers",
+        "release_date": "May 13, 2022",
+        "label": "PGLang, Top Dawg Entertainment, Aftermath Entertainment, Interscope Records",
+        "chart_position": 1,
+        "certification": "Platinum"
+    }
+]
